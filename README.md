@@ -1,4 +1,4 @@
-# PDF-Dateien:
+# Flipbooks:
 <ul>
   <li><a href="https://publuu.com/de/flipbook-erstellen/">Flipbook-Ersteller</a> - Konvertiere ein PDF in ein Online-Flipbook mit einem realistischen Blättereffekt und einfachem Zugriff von jedem Gerät.</li>
   <li><a href="https://publuu.com/de/blatterkatalog-erstellen/">Blätterkatalog Erstellen</a> - Konvertiere ein einfaches PDF in einen spektakulären interaktiven Katalog, der mit Videos, Produktseitenlinks und Schaltflächen angereichert ist.</li>
